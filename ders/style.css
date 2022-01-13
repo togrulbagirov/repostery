@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.adam{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 250px; 0px;
+
+}
+.adam h1{
+    color: black;
+    font-size: 88px;
+}
+.adam h3{
+    color: black;
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+.adam a{
+    font-size: 20px;
+    padding: 10px 20px;
+    color: wheat;
+    background-color: blue;
+    text-decoration: none;
+    border-radius: 4px;
+    
+}
+
+.to{
+    padding: 250px 0;
+    text-align: center;
+
+}
+.to h2{
+    font-size: 35px;
+    
+}
+.to p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.to .as {
+    background-color: black;
+    color: wheat;
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.agil{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 250px 0;
+    text-align: center;
+}
+.agil h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.agil a{background-color: blue;
+    color: wheat;
+    padding: 16px 30px;
+    text-decoration: none;
+    border-radius: 6px;
+
+}
+
+
+
+.ag{
+    padding: 200px 0;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.ag h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.ag .kisi{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 15px 35px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.ag .lecek{
+    background-color: blanchedalmond;
+    color: black;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin-left: 20px;
+    border-radius: 6px;
+}
